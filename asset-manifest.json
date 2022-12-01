@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://francis-vila.github.io/csb-lnughz/static/js/main.bbedb53e.chunk.js",
+    "main.js.map": "https://francis-vila.github.io/csb-lnughz/static/js/main.bbedb53e.chunk.js.map",
+    "runtime-main.js": "https://francis-vila.github.io/csb-lnughz/static/js/runtime-main.c6e0429a.js",
+    "runtime-main.js.map": "https://francis-vila.github.io/csb-lnughz/static/js/runtime-main.c6e0429a.js.map",
+    "static/js/2.ed6ce5cf.chunk.js": "https://francis-vila.github.io/csb-lnughz/static/js/2.ed6ce5cf.chunk.js",
+    "static/js/2.ed6ce5cf.chunk.js.map": "https://francis-vila.github.io/csb-lnughz/static/js/2.ed6ce5cf.chunk.js.map",
+    "index.html": "https://francis-vila.github.io/csb-lnughz/index.html",
+    "precache-manifest.66e5d6105361660f4e674347209850fc.js": "https://francis-vila.github.io/csb-lnughz/precache-manifest.66e5d6105361660f4e674347209850fc.js",
+    "service-worker.js": "https://francis-vila.github.io/csb-lnughz/service-worker.js",
+    "static/js/2.ed6ce5cf.chunk.js.LICENSE.txt": "https://francis-vila.github.io/csb-lnughz/static/js/2.ed6ce5cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6e0429a.js",
+    "static/js/2.ed6ce5cf.chunk.js",
+    "static/js/main.bbedb53e.chunk.js"
+  ]
+}
